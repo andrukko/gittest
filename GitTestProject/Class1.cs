@@ -8,8 +8,11 @@ namespace GitTestProject
 {
     class Class1
     {
-        private int i = 0;
-        ///;;;;;;
-
+        private string ggg;
+        ////
+        /// 
+        /// 
+        /// 
+        /// 
     }
 }
